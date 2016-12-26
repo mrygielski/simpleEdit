@@ -41,7 +41,7 @@ $.fn.simpleEdit = function() {
 
         e.hide();
 
-        var replace = $("<input>").val(e.text());
+        var replace = $("<input class='simpleEdit-input'>").val(e.text());
 
         e.after(replace);
         replace.focus();

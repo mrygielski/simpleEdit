@@ -2,7 +2,8 @@
 	"name": "jquery-simpleEdit",
 	"description": "jQuery plugin for edit html elements",
 	"main": [
-		"jquery.simpleEdit.js"
+		"jquery.simpleEdit.js",
+		"jquery.simpleEdit.css"
 	],
 	"devDependencies": {
 		"jquery-1.5.2": "jquery#1.5.2",
